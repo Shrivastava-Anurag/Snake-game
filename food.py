@@ -1,7 +1,7 @@
 from turtle import Turtle
 import random
 
-
+# this function is basically the food for the snake they have to collect this food
 class Food(Turtle):
     def __init__(self):
         super().__init__()
